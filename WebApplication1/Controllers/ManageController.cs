@@ -19,6 +19,7 @@ namespace WebApplication1.Controllers
         public ManageController()
         {
             //This is a comment
+            //I wanna rock and roll all night
         }
 
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
