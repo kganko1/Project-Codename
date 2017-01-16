@@ -18,6 +18,7 @@ namespace WebApplication1.Controllers
 
         public ManageController()
         {
+            //1223234455
         }
 
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
